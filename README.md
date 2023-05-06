@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development]()
 
 # Adrian Twarog
 I'm Adrian from Sri Lanka, and I do on Development and Design. I really enjoy learning languages java and frameworks like React and React Native, spring boot. I also enjoy Web Application Development and design in general. 
@@ -10,4 +10,4 @@ I'm Adrian from Sri Lanka, and I do on Development and Design. I really enjoy le
 * 💻 HTML, CSS, JS , TS ,
 
 ## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+<img src="" width="512" >
