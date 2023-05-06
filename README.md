@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @shiran-sandaruwan-69x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-<!---
-shiran-sandaruwan-69x/shiran-sandaruwan-69x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Adrian Twarog
+I'm Adrian from Sri Lanka, and I do on Development and Design. I really enjoy learning languages java and frameworks like React and React Native, spring boot. I also enjoy Web Application Development and design in general. 
+
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 Spring Boot
+* 💻 HTML, CSS, JS , TS ,
+
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
